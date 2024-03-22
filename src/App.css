@@ -1,0 +1,9 @@
+.app-dark {
+  background-color: #151515;
+  min-height: 100vh;
+}
+
+.app-light {
+  background-color: #ffffff;
+  min-height: 100vh;
+}

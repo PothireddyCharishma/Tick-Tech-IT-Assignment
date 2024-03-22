@@ -1,0 +1,83 @@
+.navbar-main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 500px;
+  align-items: center;
+  margin: 0px;
+  padding-top: 20px;
+  background-color: #ffffff;
+}
+
+.navbar-main-container-dark {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 500px;
+  align-items: center;
+  margin: 0px;
+  padding-top: 20px;
+  background-color: #151515;
+}
+
+.navbar-first-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.navbar-second-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 35px;
+}
+
+.navbar-first-head {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-first-head-dark {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-second-container-h1 {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 550;
+  cursor: pointer;
+}
+
+.navbar-second-container-h1-dark {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 550;
+  cursor: pointer;
+}
+
+.navbar-second-container-img {
+  height: 35px;
+  width: 35px;
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar-second-container-link {
+  text-decoration: none;
+}
+
+.navbar-button-light-dark {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
